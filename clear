@@ -1,0 +1,19 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex e17e03b..acf35e5 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,2 +1,2 @@[m
+ This is my new status[m
+[31m-Please add this following code into the github[m
+\ No newline at end of file[m
+[32m+[m[32mPlease add this following code into the github[m
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 76de3cf..feabbc3 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1 +1,2 @@[m
+[31m-<p> This is a javascrip code </p>[m
+\ No newline at end of file[m
+[32m+[m[32m<p> This is a javascrip code </p>[m
+[32m+[m[32m<p>This is a new feature</p>[m
+\ No newline at end of file[m
